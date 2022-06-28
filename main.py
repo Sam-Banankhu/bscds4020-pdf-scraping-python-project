@@ -21,6 +21,7 @@ def __extract_pages__(pages):
     language = []
 
     for j in range(len(pages)):
+        print(f"PDF Extraction in progress...Page {i}..\n")
         for i in range(len(pages[j].extract_table())):
             country.append(pages[j].extract_table()[i][0])
             capital.append(pages[j].extract_table()[i][1])
