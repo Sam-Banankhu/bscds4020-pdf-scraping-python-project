@@ -21,22 +21,30 @@ def __extract_pages__(pages):
     country = []
     capital = []
     currency = []
-    primaryLang = []
+    language = []
 
     for j in range(len(pages)):
         for i in range(len(pages[j].extract_table())):
             country.append(pages[j].extract_table()[i][0])
             capital.append(pages[j].extract_table()[i][1])
             currency.append(pages[j].extract_table()[i][-2])
-            primaryLang.append(pages[j].extract_table()[i][-1])
+            language.append(pages[j].extract_table()[i][-1])
 
-    return country, capital, currency, primaryLang
+    return country, capital, currency, language
+
 
 pdf_dict = {
-    'country':[],
-    'capital':[],
-    'currency':[],
-    'primaryLang':[]
+    'country': [],
+    'capital': [],
+    'currency': [],
+    'language': []
 }
 
-def __create_repository__(country, capital, currency, primaryLang):
+
+def __create_repository__(country, capital, currency, language):
+    pdf_dict['country'].extend(country)
+    pdf_dict['capital'].extend(capital)
+    pdf_dict['currency'].extend(currency)
+    pdf_dict['language'].extend(language)
+
+    return pd.DataFrame(pdf_dict)
