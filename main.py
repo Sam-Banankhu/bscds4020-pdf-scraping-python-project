@@ -48,7 +48,8 @@ def __create_repository__(country, capital, currency, language):
 
 
 def __process__(path):
-    df = __create_repository__(__extract_pages__(__get_pdf_path__(path)))
+    country, capital, currency, language = __extract_pages__(__get_pdf_path__(path))
+    df = __create_repository__(country, capital, currency, language)
     df.head()
     df.to_excel("countries dataset.xlsx", index=False)
 
