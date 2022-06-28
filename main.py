@@ -10,10 +10,7 @@ def __get_pdf_path__(path):
     pdf = pdfplumber.open(pdfPath)
     # print(pdf.metadata)
     # print(pdf.pages)
-    # print(pdf.pages[0].extract_table()[1::])
-
     pages = pdf.pages.extract_table()
-
     return pages
 
 
