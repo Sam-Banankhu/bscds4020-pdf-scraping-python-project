@@ -1,0 +1,794 @@
+country
+capital
+currency
+language
+Afghanistan
+Kabul
+Afghani
+Dari Persian; Pashto
+Albania
+Tirane
+Lek
+Albanian
+Algeria
+Algiers
+Algerian Dinar
+Arabic; Tamazight; French
+Andorra
+Andorra la Vella
+Euro
+Catalan
+Angola
+Luanda
+Kwanza
+Portuguese
+Antigua and Barbuda
+Saint John's
+East Caribbean Dollar
+English
+Argentina
+Buenos Aires
+Argentine Peso
+Spanish
+Armenia
+Yerevan
+Dram
+Armenian
+Australia
+Canberra
+Australian Dollar
+English
+Austria
+Vienna
+Euro
+German
+Azerbaijan
+Baku
+Manat
+Azerbaijani
+The Bahamas
+Nassau
+Bahamian Dollar
+English
+Bahrain
+Manama
+Bahraini Dinar
+Arabic
+Bangladesh
+Dhaka
+Taka
+Bangla
+Barbados
+Bridgetown
+Barbadian Dollar
+English
+Belarus
+Minsk
+Belarusian Ruble
+Belarusian; Russian
+Belgium
+Brussels
+Euro
+Dutch; French; German
+Belize
+Belmopan
+Belize Dollar
+English
+Benin
+Porto-Novo
+West African CFA Franc
+French
+Bhutan
+Thimphu
+Ngultrum
+Dzongkha
+Bolivia
+La Paz; Sucre
+Boliviano
+Spanish; Quechua; Aymara
+Bosnia and Herzegovina
+Sarajevo
+Convertible Mark
+Bosnian; Croatian; Serbian
+Botswana
+Gaborone
+Pula
+English; Tswana
+Brazil
+Brasilia
+Real
+Portuguese
+Brunei
+Bandar Seri Begawan
+Brunei Dollar
+Malay
+Bulgaria
+Sofia
+Lev
+Bulgarian
+Burkina Faso
+Ouagadougou
+West African CFA Franc
+French
+Burundi
+Bujumbura
+Burundi Franc
+Kirundi; French
+Cambodia
+Phnom Penh
+Riel
+Khmer
+Cameroon
+Yaounde
+Central African CFA Franc
+French; English
+Canada
+Ottawa
+Canadian Dollar
+English; French
+Cape Verde
+Praia
+Cape Verdean Escudo
+Portuguese
+Central African Republic
+Bangui
+Central African CFA Franc
+Sango; French
+Chad
+N'Djamena
+Central African CFA Franc
+French; Arabic
+Chile
+Santiago
+Chilean Peso
+Spanish
+China
+Beijing
+Chinese Yuan
+Mandarin
+Colombia
+Bogota
+Colombian Peso
+Spanish
+Comoros
+Moroni
+Comorian Franc
+Comorian; Arabic; French
+"Democratic Republic
+Of the Congo"
+Kinshasa
+Congolese Franc
+French
+Republic of the Congo
+Brazzaville
+Central African CFA Franc
+French
+Costa Rica
+San Jose
+Colon
+Spanish
+Cote d'Ivoire (Ivory Coast)
+Yamoussoukro; Abidjan
+West African CFA Franc
+French
+Croatia
+Zagreb
+Croatian
+Kuna
+Cuba
+Havana
+Cuban Peso
+Spanish
+Cyprus
+Nicosia
+Euro
+Greek; Turkish
+Czech Republic
+Prague
+Czech Koruna
+Czech; Slovak
+Denmark
+Copenhagen
+Danish Krone
+Danish
+Djibouti
+Djibouti
+Djiboutian Franc
+Arabic; French
+Dominica
+Rosesau
+East Caribbean Dollar
+"English; French;
+Antillean Creole"
+Dominican Republic
+Santo Domingo
+Dominican Peso
+Spanish
+East Timor (Timor-Leste)
+Dilli
+United States Dollar
+"Tetum; Portuguese;
+Iindonesian"
+Ecuador
+Quito
+United States Dollar
+Spanish
+Egypt
+Cairo
+Egyptian Pound
+Arabic
+El Salvador
+San Salvador
+United States Dollar
+Spanish
+Equitorial Guinea
+Malabo
+Central African CFA Franc
+Spanish; French; Portuguese
+Eritrea
+Asmara
+Nakfa
+Arabic; Tigrinya; English
+Estonia
+Tallinn
+Estonian Kroon; Euro
+Estonian
+Ethiopia
+Addis Ababa
+Birr
+Amharic
+Fiji
+Suva
+Fijian Dollar
+English; Bau Fijian; Hindi
+Finland
+Helsinki
+Euro
+Finnish; Swedish
+France
+Paris
+Euro; CFP Franc
+French
+Gabon
+Libreville
+Central African CFA Franc
+French
+The Gambia
+Banjul
+Dalasi
+English
+Georgia
+Tbilisi
+Lari
+Georgian
+Germany
+Berlin
+Euro
+German
+Ghana
+Accra
+Ghanaian Cedi
+English
+Greece
+Athens
+Euro
+Greek
+Grenada
+St. George's
+East Caribbean Dollar
+English; Patois
+Guatemala
+Guatemala City
+Quetzal
+Spanish
+Guinea
+Conakry
+Guinean Franc
+French
+Guinea-Bissau
+Bissau
+West African CFA Franc
+Portuguese
+Guyana
+Georgetown
+Guyanese Dollar
+English
+Haiti
+Port-au-Prince
+Gourde
+Haitian Creole; French
+Honduras
+Tegucigalpa
+Lempira
+Spanish
+Hungary
+Budapest
+Forint
+Hungarian
+Iceland
+Reykjavik
+Icelandic Krona
+Icelandic
+India
+New Delhi
+Indian Rupee
+Hindi; English
+Indonesia
+Jakarta
+Rupiah
+Indonesian
+Iran
+Tehran
+Rial
+Persian
+Iraq
+Baghdad
+Iraqi Dinar
+Arabic; Kurdish
+Republic of Ireland
+Dublin
+Euro
+English; Irish
+Israel
+Jerusalem
+Shekel
+Hebrew; Arabic
+Italy
+Rome
+Euro
+Italian
+Jamaica
+Kingston
+Jamaican Dollar
+English
+Japan
+Tokyo
+Yen
+Japanese
+Jordan
+Amman
+Jordanian Dinar
+Arabic
+Kazakhstan
+Astana
+Tenge
+Kazakh; Russian
+Kenya
+Nairobi
+Kenyan Shilling
+Swahili; English
+Kiribati
+Tarawa Atoll
+Kiribati Dollar
+English; Gilbertese
+North Korea
+Pyongyang
+North Korean Won
+Korean
+South Korea
+Seoul
+South Korean Won
+Korean
+Kosovo
+Pristina
+Euro
+Albanian; Serbian
+Kuwait
+Kuwait City
+Kuwaiti Dollar
+Arabic; English
+Kyrgyzstan
+Bishkek
+Som
+Kyrgyz; Russian
+Laos
+Vientiane
+Kip
+Lao (Laotian)
+Latvia
+Riga
+Lats
+Latvian
+Lebanon
+Beirut
+Lebanese Pound
+Arabic; French
+Lesotho
+Maseru
+Loti
+Sesotho; English
+Liberia
+Monrovia
+Liberian Dollar
+English
+Libya
+Tripoli
+Libyan Dinar
+Arabic
+Liechtenstein
+Vaduz
+Swiss Franc
+German
+Lithuania
+Vilnius
+Lithuanian Litas
+Lithuanian
+Luxembourg
+Luxembourg
+Euro
+"German; French;
+Luxembourgish"
+Macedonia
+Skopje
+Macedonian Denar
+Macedonian
+Madagascar
+Antananarivo
+Malagasy Ariary
+Malagasy; French; English
+Malawi
+Lilongwe
+Malawi Kwacha
+English
+Malaysia
+Kuala Lumpur
+Ringgit
+Malay
+Maldives
+Male
+Maldivian Rufiyaa
+Dhivehi
+Mali
+Bamako
+West African CFA Franc
+French
+Malta
+Valletta
+Euro
+Maltese; English
+Marshall Islands
+Majuro
+United States Dollar
+Marshallese; English
+Mauritania
+Nouakchott
+Ouguiya
+Arabic
+Mauritius
+Port Louis
+Mauritian Rupee
+English
+Mexico
+Mexico City
+Mexican Peso
+Spanish
+Federal States of Micronesia
+Palikir
+United States Dollar
+English
+Moldova
+Chisinau
+Moldovan Leu
+Moldovan (Romanian)
+Monaco
+Monaco
+Euro
+French; Italian; English
+Mongolia
+Ulaanbaatar
+Togrog
+Mongolian
+Montenegro
+Podgorica
+Euro
+Montenegrin
+Morocco
+Rabat
+Moroccan Dirham
+Arabic
+Mozambique
+Maputo
+Mozambican Metical
+Portuguese
+Myanmar (Burma)
+Nypyidaw
+Kyat
+Burmese
+Namibia
+Windhoek
+Namibian Dollar
+English; Afrikaans; German
+Nauru
+Yaren
+Australian Dollar
+English; Nauran
+Nepal
+Kathmandu
+Nepalese Rupee
+Nepali
+Netherlands
+Amsterdam; The Hague
+Euro
+Dutch
+New Zealand
+Wellington
+New Zealand Dollar
+English
+Nicaragua
+Managua
+Cordoba
+Spanish
+Niger
+Niamey
+West African CFA Franc
+French
+Nigeria
+Abuja
+Naira
+English
+Norway
+Oslo
+Norwegian Krone
+Norwegian
+Oman
+Muscat
+Omani Rial
+Arabic
+Pakistan
+Islamabad
+Pakistani Rupee
+Urdu; English
+Palau
+Melekeok
+United States Dollar
+English; Palauan
+Panama
+Panama City
+Balboa
+Spanish
+Papa New Guinea
+Port Moresby
+Papa New Guinean Kina
+"English; Tok Pisin;
+Hiri Motu"
+Paraguay
+Asuncion
+Guarani
+Spanish; Guarani
+Peru
+Lima
+Nuevo Sol
+Spanish
+Phillipines
+Manila
+Phillipine Peso
+Filipino; English
+Poland
+Warsaw
+Złoty
+Polish
+Portugal
+Lisbon
+Euro
+Portuguese
+Qatar
+Doha
+Qatari Riyal
+Arabic
+Romania
+Bucharest
+Romanian Rupee
+Romanian
+Russia
+Moscow
+Ruble
+Russian
+Rwanda
+Kigali
+Rwandan Franc
+"Kinyarwanda; French;
+English"
+Saint Kitts and Nevis
+Basseterre
+East Caribbean Dollar
+English
+Saint Lucia
+Castries
+East Caribbean Dollar
+English; French
+"Saint Vincent and 
+The Grenadines"
+Kingstown
+East Caribbean Dollar
+English
+Samoa
+Apia
+Tala
+Samoan; English
+San Marino
+San Marino
+Euro
+Italian
+Sao Tome and Principe
+Sao Tome
+Dobra
+Portuguese
+Saudi Arabia
+Riyadh
+Saudi Riyal
+Arabic
+Senegal
+Dakar
+West African CFA Franc
+French
+Serbia
+Belgrade
+Serbian Dinar
+Serbian
+Seychelles
+Victoria
+Seychoellois Rupee
+"Seychellois Creole;
+French; English"
+Sierra Leone
+Freetown
+Leone
+Krio; English
+Singapore
+Singapore
+Singapore Dollar
+"English; Malay;
+Mandarin Chinese"
+Slovakia
+Bratislava
+Euro
+Slovak
+Slovenia
+Ljubljana
+Euro
+Slovene
+Solomon Islands
+Honiara
+Solomon Islands Dollar
+Solomons Pijin
+Somalia
+Mogadishu
+Somali Shilling
+Somali; Arabic
+South Africa
+"Pretoria; Cape Town; 
+Bloemfontein"
+Rand
+Zulu; Xhosa; Afrikaans
+Spain
+Madrid
+Euro
+Spanish
+Sri Lanka
+Colombo
+Sri Lankan Rupee
+Sinhala; Tamil
+Sudan
+Khartoum
+Sudanese Pound
+Arabic; English
+Suriname
+Paramaribo
+Surinamese Dollar
+Dutch
+Swaziland
+Mbabane
+Lilangeni
+English; SiSwati
+Sweden
+Stockholm
+Swedish Krona
+Swedish
+Switzerland
+Berne
+Swiss Franc
+German; French; Italian
+Syria
+Damascus
+Syrian Pound
+Arabic
+Taiwan
+Taipei
+New Taiwan Dollar
+Mandarin
+Tajikistan
+Dushanbe
+Somoni
+Tajik; Russian
+Tanzania
+Dar es Salaam; Dodoma
+Tanzanian Schilling
+Swahili
+Thailand
+Bangkok
+Thai Baht
+Thai
+Togo
+Lome
+West African CFA Franc
+French
+Tonga
+Nuku'alofa
+Pa'anga
+Tongan; English
+Trinidad and Tobago
+Port-of-Spain
+Trinidad and Tobago Dollar
+English
+Tunisia
+Tunis
+Tunisian Dinar
+Tunisian; French
+Turkey
+Ankara
+Turkish Lira
+Turkish
+Turkmenistan
+Ashgabat
+Turkmen New Manat
+Turkmen; Russian
+Tuvalu
+Vaiaku
+Tuvaluan Dollar
+Tuvaluan; English
+Uganda
+Kampala
+Ugandan Shilling
+Swahili; English
+Ukraine
+Kiev
+Hryvnia
+Ukranian; Russian
+United Arab Emirates
+Abu Dhabi
+Dirham
+Arabic
+United Kingdom
+London
+Pound Sterling
+English
+United States of America
+Washington D.C.
+United States Dollar
+English; Spanish
+Uruguay
+Montevideo
+Uruguayan Peso
+Spanish
+Uzbekistan
+Tashkent
+Uzbekistan Som
+Uzbek; Russian
+Vanuatu
+Port-Vila
+Vanuatu Vatu
+Bislama; English; French
+Vatican City
+Vatican City
+Euro
+Latin; Italian
+Venezuela
+Caracas
+Bolivar Fuerte
+Spanish
+Vietnam
+Hanoi
+Dong
+Vietnamese
+Yemen
+Sanaa
+Yemeni Rial
+Arabic
+Zambia
+Lusaka
+Zambian Kwacha
+English
+Zimbabwe
+Harare
+United States Dollar
+English
