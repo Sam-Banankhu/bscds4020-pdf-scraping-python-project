@@ -10,7 +10,7 @@ def __get_pdf_path__(path):
     pdf = pdfplumber.open(pdfPath)
     # print(pdf.metadata)
     # print(pdf.pages)
-    pages = pdf.pages.extract_table()
+    pages = pdf.pages  # .extract_table()
     return pages
 
 
@@ -48,4 +48,9 @@ def __create_repository__(country, capital, currency, language):
 
 
 def __process__(path):
-    __create_repository__(__extract_pages__(__get_pdf_path__(path)))
+    df = __create_repository__(__extract_pages__(__get_pdf_path__(path)))
+    df.head()
+    df.to_excel("countries dataset.xlsx", index=False)
+
+
+__process__(pdfPath)
