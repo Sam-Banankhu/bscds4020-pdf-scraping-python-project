@@ -45,3 +45,7 @@ def __create_repository__(country, capital, currency, language):
     pdf_dict['language'].extend(language)
 
     return pd.DataFrame(pdf_dict)
+
+
+def __process__(path):
+    __create_repository__(__extract_pages__(__get_pdf_path__(path)))
