@@ -1,5 +1,5 @@
-import pandas as pd
-import pdfplumber
+import pandas as pd # library for data manipulation
+import pdfplumber # library for scraping pdfs
 from tqdm import tqdm
 import time
 
