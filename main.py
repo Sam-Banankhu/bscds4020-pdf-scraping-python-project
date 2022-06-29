@@ -6,6 +6,7 @@ import time
 pdfPath = r"C:\Users\pandas\Pictures\Certificates\World Countries and Capital & Languages.pdf"
 
 
+# method to get the path of the PDF and return pages data
 def __get_pdf_path__(path):
     pdf = pdfplumber.open(pdfPath)
     # print(pdf.metadata)
@@ -14,12 +15,14 @@ def __get_pdf_path__(path):
     return pages
 
 
+# method to extract data from pages and save in list
 def __extract_pages__(pages):
     country = []
     capital = []
     currency = []
     language = []
 
+    # loop to extract all pages of the pdf. and return lists of columns head
     for j in range(len(pages)):
         print(f"PDF Extraction in progress...Page {j+1}..")
         for i in range(len(pages[j].extract_table())):
@@ -31,6 +34,7 @@ def __extract_pages__(pages):
     return country, capital, currency, language
 
 
+# dictionary for creating final repository
 pdf_dict = {
     'country': [],
     'capital': [],
@@ -39,6 +43,7 @@ pdf_dict = {
 }
 
 
+# methond to add data into a dictionary and return a pandas dataframe
 def __create_repository__(country, capital, currency, language):
     pdf_dict['country'].extend(country)
     pdf_dict['capital'].extend(capital)
