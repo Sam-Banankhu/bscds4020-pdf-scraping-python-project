@@ -50,9 +50,11 @@ def __create_repository__(country, capital, currency, language):
     pdf_dict['currency'].extend(currency)
     pdf_dict['language'].extend(language)
 
+    # creating a pandas dataframe
     return pd.DataFrame(pdf_dict)
 
 
+# methods of binding all methods together
 def __process__(path):
     country, capital, currency, language = __extract_pages__(__get_pdf_path__(path))
     df = __create_repository__(country, capital, currency, language)
@@ -61,4 +63,5 @@ def __process__(path):
     df.to_csv("countries dataset.txt", index=False, sep="\n")
 
 
+# instantiating the extraction process
 __process__(pdfPath)
