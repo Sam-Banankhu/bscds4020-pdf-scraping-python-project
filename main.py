@@ -3,7 +3,7 @@ import pdfplumber # library for scraping pdfs
 from tqdm import tqdm
 import time
 
-pdfPath = r"C:\Users\pandas\Pictures\Certificates\World Countries and Capital & Languages.pdf"
+pdfPath = r"pdf file path"
 
 
 # method to get the path of the PDF and return pages data
